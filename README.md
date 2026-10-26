@@ -67,5 +67,5 @@ java -cp out musik.Main
 Contoh output ada di `docs/output.txt`.
 
 ## 7. Pembagian Tugas
-- HENI: abstract class `AlatMusik`, subclass, class diagram
-- LAILA: interface, `Main`, README, pengujian
+- HENI: README, abstract class, subclass, class diagram
+- LAILA: interface, Main, , pengujian, AlatMusik
