@@ -1,4 +1,6 @@
 package musik;
+
+/** extends AlatMusik + implements Portabel (memakai default method apa adanya). */
 public class Seruling extends AlatMusik implements Portabel {
 
     public Seruling() {
@@ -19,4 +21,5 @@ public class Seruling extends AlatMusik implements Portabel {
     public String bawa() {
         return "Dimasukkan ke saku";
     }
+    // tempatPenyimpanan() tidak di-override -> memakai default "tas biasa"
 }
